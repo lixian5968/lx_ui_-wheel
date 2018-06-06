@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ToWheel1(View v){
-        ToActivity( Wheel1Activity.class);
+        ToActivity( Wheel2Activity.class);
     }
 
     public void ToActivity(Class mClass){
