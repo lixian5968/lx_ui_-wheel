@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Wheel1Activity" />
         <activity android:name=".Wheel2Activity" />
-        <activity android:name=".Wheel3Activity">
+        <activity android:name=".Wheel3Activity" />
+        <activity android:name=".Wheel4Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
