@@ -15,6 +15,7 @@
 
             <!--<category android:name="android.intent.category.LAUNCHER" />-->
             <!--</intent-filter>-->
+			   <!-- test -->
         </activity>
         <activity android:name=".Wheel1Activity" />
         <activity android:name=".Wheel2Activity" />
