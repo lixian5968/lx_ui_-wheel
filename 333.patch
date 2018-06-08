@@ -1,0 +1,16 @@
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/AndroidManifest.xml	(revision 1d1a27a63e8239408d44d74e7a3d460793dd549b)
++++ app/src/main/AndroidManifest.xml	(revision 690b0b85a13dcced83d7cfb60c1c046f7c760c2f)
+@@ -13,7 +13,7 @@
+             <!--<intent-filter>-->
+             <!--<action android:name="android.intent.action.MAIN" />-->
+ 
+-            <!--<category android:name="android.intent1.category.LAUNCHER" />-->
++            <!--<category android:name="android.intent3.category.LAUNCHER" />-->
+             <!--</intent-filter>-->
+ 			   <!-- test -->
+         </activity>
